@@ -1,0 +1,1 @@
+detekcja - LabView
